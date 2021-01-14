@@ -1,0 +1,13 @@
+h2.float {
+    float: left;
+    margin-right: 20px;
+  }
+  h3 {
+      border:dotted  rgb(218, 2, 2);
+  }
+  #rcorners1 {
+      border-radius: 25px;
+      background: rgb(218, 2, 2);
+      padding: 20px; 
+      width: 200px;
+  }
